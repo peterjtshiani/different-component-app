@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/different-component-app/static/css/main.fd730fd9.chunk.css",
+    "main.js": "/different-component-app/static/js/main.01953a63.chunk.js",
+    "main.js.map": "/different-component-app/static/js/main.01953a63.chunk.js.map",
+    "runtime~main.js": "/different-component-app/static/js/runtime~main.f3035c03.js",
+    "runtime~main.js.map": "/different-component-app/static/js/runtime~main.f3035c03.js.map",
+    "static/js/2.4c9798d9.chunk.js": "/different-component-app/static/js/2.4c9798d9.chunk.js",
+    "static/js/2.4c9798d9.chunk.js.map": "/different-component-app/static/js/2.4c9798d9.chunk.js.map",
+    "index.html": "/different-component-app/index.html",
+    "precache-manifest.ffeec882fad3b86a5835dafa5ae6bd2d.js": "/different-component-app/precache-manifest.ffeec882fad3b86a5835dafa5ae6bd2d.js",
+    "service-worker.js": "/different-component-app/service-worker.js",
+    "static/css/main.fd730fd9.chunk.css.map": "/different-component-app/static/css/main.fd730fd9.chunk.css.map",
+    "static/media/2.jpeg": "/different-component-app/static/media/2.497c2d66.jpeg",
+    "static/media/logo.jpg": "/different-component-app/static/media/logo.6d045010.jpg",
+    "static/media/logo1.png": "/different-component-app/static/media/logo1.982dffaa.png",
+    "static/media/mb.jpg": "/different-component-app/static/media/mb.93dab6b0.jpg",
+    "static/media/promotion2019.jpg": "/different-component-app/static/media/promotion2019.0b7c1d8d.jpg"
+  }
+}
